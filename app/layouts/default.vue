@@ -30,11 +30,11 @@
   <v-app-bar-title>Application Bar</v-app-bar-title>
 </v-app-bar>
 
-    <v-mian>
+    <v-main>
         <v-container>
             <slot/>
         </v-container>
-    </v-mian>
+    </v-main>
 
     </v-app>
 
